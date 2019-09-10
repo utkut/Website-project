@@ -1,4 +1,4 @@
-# Website-project
+# website-project
 Personal Website project
 Built by Utku Tarhan
 
