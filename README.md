@@ -2,7 +2,7 @@
 Personal Website project
 Built by Utku Tarhan
 
-![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Futkutarhan.com)
+![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https://utkutarhan.com)
 
 Used Technologies: HTML5, JavaScript, Bootstrapper, jQuery, GoogleFonts,
 Website available at: https://utkutarhan.com
